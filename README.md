@@ -9,10 +9,16 @@ React Learnings:
 - React can be fit into any kind of application.
 
 - Creating React Project: (Make sure Node.js is installed)
+
     i) Create a React Project: npx create-react-app <project-name> 
+    
     ii) Move into the project: cd hello-world
+    
     iii) Run the project: npm start
+    
     iv) View in browser: http://localhost:3000/
+
+
 
 
 
